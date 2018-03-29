@@ -14,5 +14,5 @@ entries:
     name: acmeair
     tillerVersion: '>=2.4.0'
     urls:
-    - https://raw.githubusercontent.com/juliemathew/THINK2018/acmeair-0.0.2.tgz
+    - https://raw.githubusercontent.com/juliemathew/THINK2018/acmeair/acmeair-0.0.2.tgz
     version: 1.0.3
