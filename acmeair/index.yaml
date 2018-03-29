@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  acmeair:
+  - apiVersion: v1
+    created: 2018-02-07T01:52:53.495075442Z
+    description: AcmeAir for Power.
+    digest: 49a113f4785e00e850fa82e9844cb0c030bcad593f4d178039d9410a2923c9db
+    icon: https://pbs.twimg.com/profile_images/618444507042988041/r72YruBL.png
+    keywords:
+    - acmeair
+    - IBM
+    maintainers:
+    - name: IBMdev
+    name: acmeair
+    tillerVersion: '>=2.4.0'
+    urls:
+    - https://raw.githubusercontent.com/juliemathew/THINK2018/acmeair-0.0.2.tgz
+    version: 1.0.3
